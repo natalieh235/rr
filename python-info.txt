@@ -1,0 +1,10 @@
+{'commit_hash': '4e1d3e557',
+ 'commit_source': 'installation',
+ 'default_encoding': 'utf-8',
+ 'ipython_path': '/Users/natalie/miniconda3/envs/itsc24-RR-tutorial/lib/python3.8/site-packages/IPython',
+ 'ipython_version': '8.12.3',
+ 'os_name': 'posix',
+ 'platform': 'macOS-13.5.2-arm64-arm-64bit',
+ 'sys_executable': '/Users/natalie/miniconda3/envs/itsc24-RR-tutorial/bin/python3',
+ 'sys_platform': 'darwin',
+ 'sys_version': '3.8.19 (default, Mar 20 2024, 15:27:52) \n[Clang 14.0.6 ]'}
